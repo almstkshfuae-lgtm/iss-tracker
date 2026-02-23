@@ -1,0 +1,5 @@
+{
+  "name": "ISS Orbital Tracker",
+  "description": "A high-fidelity 3D visualization of the International Space Station's orbit around Earth, featuring real-time solar ephemeris lighting and live telemetry.",
+  "requestFramePermissions": []
+}
